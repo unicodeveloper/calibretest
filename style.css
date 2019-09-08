@@ -1,0 +1,53 @@
+/* Font Face - Calibre */
+@font-face {
+  font-family: 'Calibre';
+  font-style: normal;
+  font-weight: 300;
+  src: url('../fonts/Calibre-Light.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Calibre';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Calibre-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Calibre';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/Calibre-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Calibre';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/Calibre-Bold.otf') format('opentype');
+}
+
+p {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+body {
+  background-color: #004D29;
+}
+
+.try {
+  font-family: 'Calibre';
+  font-weight: 600;
+  font-size: 70px;
+}
+
+.light {
+  font-family: 'Calibre';
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 15px;
+  color: #ffffff;
+}
